@@ -1,0 +1,15 @@
+<dependencies>
+    <dependency>
+        <groupId>javax.servlet</groupId>
+        <artifactId>javax.servlet-api</artifactId>
+        <version>4.0.1</version> <!-- Versión 4.0 o posterior -->
+        <scope>provided</scope>
+    </dependency>
+
+    <dependency>
+        <groupId>com.google.code.gson</groupId>
+        <artifactId>gson</artifactId>
+        <version>2.8.9</version>
+        <scope>compile</scope>
+    </dependency>
+</dependencies>

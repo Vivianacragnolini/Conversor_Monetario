@@ -1,0 +1,10 @@
+<web-app>
+    <servlet>
+        <servlet-name>Monedas</servlet-name>
+        <servlet-class>com.conversormonetario.api.Monedas</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Monedas</servlet-name>
+        <url-pattern>/api/Monedas</url-pattern>
+    </servlet-mapping>
+</web-app>
